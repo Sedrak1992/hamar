@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hamar/static/css/main.a617e044.chunk.css",
+    "main.js": "/hamar/static/js/main.8b6f46a7.chunk.js",
+    "main.js.map": "/hamar/static/js/main.8b6f46a7.chunk.js.map",
+    "runtime-main.js": "/hamar/static/js/runtime-main.a5f5d411.js",
+    "runtime-main.js.map": "/hamar/static/js/runtime-main.a5f5d411.js.map",
+    "static/js/2.9deba3ac.chunk.js": "/hamar/static/js/2.9deba3ac.chunk.js",
+    "static/js/2.9deba3ac.chunk.js.map": "/hamar/static/js/2.9deba3ac.chunk.js.map",
+    "static/js/3.572d3c57.chunk.js": "/hamar/static/js/3.572d3c57.chunk.js",
+    "static/js/3.572d3c57.chunk.js.map": "/hamar/static/js/3.572d3c57.chunk.js.map",
+    "index.html": "/hamar/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hamar/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9deba3ac.chunk.js.LICENSE.txt": "/hamar/static/js/2.9deba3ac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hamar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5f5d411.js",
+    "static/js/2.9deba3ac.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8b6f46a7.chunk.js"
+  ]
+}
